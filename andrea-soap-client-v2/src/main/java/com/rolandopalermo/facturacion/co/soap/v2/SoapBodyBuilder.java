@@ -1,6 +1,6 @@
 package com.rolandopalermo.facturacion.co.soap.v2;
 
-import com.anjus.commons.enums.Environment;
+import com.rolandopalermo.facturacion.co.soap.v2.utils.Environment;
 import lombok.Builder;
 
 @Builder

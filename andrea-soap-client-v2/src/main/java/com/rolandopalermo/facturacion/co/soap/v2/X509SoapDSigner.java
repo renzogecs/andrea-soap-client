@@ -1,6 +1,6 @@
 package com.rolandopalermo.facturacion.co.soap.v2;
 
-import com.anjus.commons.utils.SoapUtils;
+import com.rolandopalermo.facturacion.co.soap.v2.utils.SoapUtils;
 import org.apache.ws.security.WSConstants;
 import org.apache.ws.security.WSEncryptionPart;
 import org.apache.ws.security.WSSConfig;

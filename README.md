@@ -86,23 +86,6 @@ public static final String generateNonce() {
 }
 ```
 
-- Dian webervices environments for version 2
-```java
-public enum Environment {
-    DEV("https://vpfe-hab.dian.gov.co/WcfDianCustomerServices.svc");
-
-    private String baseWsdl;
-
-    private Environment(String baseWsdl) {
-        this.baseWsdl = baseWsdl;
-    }
-
-    public String getBaseWsdl() {
-        return this.baseWsdl;
-    }
-}
-```
-
 ## Bitácora
 
 - V1: 2019-09-30, First version.
